@@ -1,0 +1,58 @@
+.search-form {
+    margin-left: 947px; 
+  }
+.bg-image-set{
+  background-image: url('/home/user/Downloads/react-tut/client/src/login-bg.jpg');
+  height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jumbotron {
+    border-radius: .6rem;
+  }
+
+.alert-custom{
+  margin-top:230px;
+}
+
+.home{
+  margin-left: 300px;
+}
+
+.home-button{
+  margin-left: 660px;
+  margin-top: 20px;
+  width: 100px;
+}
+.no-record{
+    margin-left: 490px;
+    margin-top: 120px;
+}
+
+
+.not-auth{
+  margin-top: 250px;
+}
+
+.not-auth-button{
+  margin-top:20px;
+}
+
+
+.blur-background {
+    filter: blur(30px);
+  }
+
+.custom-modal {
+    background-color: #57575c;
+  }
+
+.custom-close-btn {
+    background-color: white;
+}
+
+body {
+    background-color: #333333;
+  }
